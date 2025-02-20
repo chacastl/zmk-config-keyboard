@@ -10,10 +10,6 @@
 #include <dt-bindings/zmk/input_transform.h>
 #include <input/processors.dtsi>
 
-#include "shared/setup.dtsi"
-#include "shared/macros.dtsi"
-#include "shared/behaviors.dtsi"
-#include "shared/combos.dtsi"
 
 / {
     input_processors {
